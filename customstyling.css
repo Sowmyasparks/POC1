@@ -1,0 +1,43 @@
+.topBar {
+    background-color: orangered;
+    border: 1px white;
+}
+.footerBar {
+    background-color: orangered;
+    border: 1px white;
+    height: 30px;
+}
+
+.footerBarBtn {
+    margin-left: 30px;
+}
+.verticalBar {
+    border-left: 2px solid #323435;
+    margin: 10px 10px 10px 10px;
+  }
+
+.imageStyling {
+    width: 30px;
+    height: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.feedRows {
+    height: 50%;
+}
+
+.alinkStyles {
+    font-size: 15px;
+    color:#242627;
+    text-decoration: none;
+}
+
+.hightlightText {
+ font-weight: bold;
+}
+
+.moveRight{
+    float: right;
+    padding-right: 10px;
+}
